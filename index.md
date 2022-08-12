@@ -1,3 +1,3 @@
 # Sailing Analytics
 
-Place holder for regatta optimized sailing analytics from a provided GPS track.
+Placeholder for regatta optimized sailing analytics from a provided GPS track.
